@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="./assets/animesh-1121-gitfut.png" width="300" alt="GitFut Card"/>
+  <img src="./assets/animesh-1121-gitfut (1).png" width="300" alt="GitFut Card"/>
 </p>
 
 ---
