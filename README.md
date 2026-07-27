@@ -35,7 +35,7 @@ Status      : Building impactful AI & Data-driven Projects 🚀
 
 <td width="40%" align="center">
 
-<img src="./assets/animesh-1121-gitfut.png" width="320" alt="GitFut Card"/>
+<img src="./assets/animesh-1121-gitfut (1).png" width="320" alt="GitFut Card"/>
 
 <br><br>
 
