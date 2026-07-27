@@ -5,61 +5,28 @@
 📊 Data Analytics • 🤖 Machine Learning • 🌐 Full Stack Developer • ⚙️ Data Engineering Learner
 </h3>
 
+<p align="center">
+  <img src="./assets/animesh-1121-gitfut.png" width="300" alt="GitFut Card"/>
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
+```bash
+> whoami
 
-<td width="60%" valign="top">
-
-```json
-{
-  "name": "Animesh Tajne",
-  "location": "Maharashtra, India",
-  "role": "CSBS Student & Full Stack Developer",
-  "education": "3rd Year Computer Science & Business Systems",
-  "languages": [
-    "Python",
-    "R",
-    "C",
-    "C++",
-    "SQL"
-  ],
-  "interests": [
-    "Data Engineering",
-    "Machine Learning",
-    "Data Analytics",
-    "Full Stack Development"
-  ],
-  "currently_learning": [
-    "Apache Spark",
-    "Kafka",
-    "Big Data",
-    "Cloud Technologies"
-  ]
-}
+Name        : Animesh Tajne
+Role        : CSBS Student
+Education   : 3rd Year Computer Science & Business Systems
+Languages   : Python | C++ | SQL | R
+Tech Stack  : MERN | Flask | FastAPI | Docker
+Database    : MongoDB | PostgreSQL | MySQL
+BI Tools    : Power BI | Tableau | Advanced Excel
+Interest    : Machine Learning | Data Analytics | Data Engineering
+Learning    : Apache Spark | Kafka | Big Data | Cloud
+Status      : Building impactful projects 🚀
 ```
-
-</td>
-
-<td width="40%" align="center">
-
-<a href="https://gitfut.com/animesh-1121?country=in">
-  <img src="./assets/animesh-1121-gitfut.png" width="300" alt="GitFut Card"/>
-</a>
-
-<br>
-
-<a href="https://gitfut.com/animesh-1121?country=in">
-  <img src="https://img.shields.io/badge/View%20GitFut%20Profile-FF6B00?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -96,84 +63,84 @@
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,postgres,docker"/>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,docker,postgres"/>
 </p>
 
-### 📊 Data Analytics
+### 📊 Data Analytics & ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 📊 Sales Analytics Dashboard
-Interactive Power BI dashboard with SQL integration for business insights.
-
-### 🤖 Machine Learning Projects
-Prediction and classification models using Python, Pandas and Scikit-Learn.
-
 ### 🌐 MERN Stack Applications
 Full-stack web applications with authentication and REST APIs.
 
+### 📊 Data Analytics Dashboard
+Business intelligence dashboards using Power BI, SQL & Excel.
+
+### 🤖 Machine Learning Projects
+Predictive models, data visualization and classification.
+
 ### ⚙️ Data Engineering
-Learning ETL pipelines, Apache Spark and Kafka.
+Learning ETL pipelines with Apache Spark and Kafka.
 
 ---
 
 # 🌱 Current Focus
 
-- 📊 Data Engineering
-- ⚡ Apache Spark
-- ☁️ Cloud Technologies
+- ⚙️ Data Engineering
+- 📊 Data Analytics
 - 🤖 Machine Learning
 - 🌐 MERN Stack
+- ☁️ Cloud Technologies
 - 🐳 Docker
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/YOUR-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Animesh%20Tajne-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/animeshtajne_">
-<img src="https://img.shields.io/badge/Instagram-@animeshtajne__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:work.animeshtajne@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://medium.com/@YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Medium-Animesh-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+<a href="https://github.com/animesh-1121">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://gitfut.com/animesh-1121?country=in">
-<img src="https://img.shields.io/badge/GitFut-Player%20Card-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitFut-FF6B00?style=for-the-badge"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 ## 💭 Quote
 
-> *"Code. Learn. Build. Repeat."*
+> **"Code. Learn. Build. Repeat."**
 
 ---
 
