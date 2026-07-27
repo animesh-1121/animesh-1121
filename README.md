@@ -37,7 +37,7 @@
     "Apache Spark",
     "Kafka",
     "Big Data",
-    "Cloud"
+    "Cloud Technologies"
   ]
 }
 ```
@@ -47,12 +47,14 @@
 <td width="40%" align="center">
 
 <a href="https://gitfut.com/animesh-1121?country=in">
-<img src="./assets/fifa-card.png" width="300" alt="GitFut Card"/>
+  <img src="./assets/animesh-1121-gitfut.png" width="300" alt="GitFut Card"/>
 </a>
 
-<br><br>
+<br>
 
-⭐ **GitFut Player Card**
+<a href="https://gitfut.com/animesh-1121?country=in">
+  <img src="https://img.shields.io/badge/View%20GitFut%20Profile-FF6B00?style=for-the-badge"/>
+</a>
 
 </td>
 
@@ -61,7 +63,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -91,7 +93,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb"/>
 </p>
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=flask,fastapi,postgres,docker"/>
@@ -100,43 +102,44 @@
 ### 📊 Data Analytics
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi"/>
+<img src="https://skillicons.dev/icons?i=git,github"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma,vscode"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🌐 MERN Stack Applications
-- Full-stack applications with authentication and REST APIs.
-
-### 📊 Data Analytics Dashboard
-- Power BI & SQL dashboards for business insights.
+### 📊 Sales Analytics Dashboard
+Interactive Power BI dashboard with SQL integration for business insights.
 
 ### 🤖 Machine Learning Projects
-- Regression, Classification, Data Visualization & Predictive Models.
+Prediction and classification models using Python, Pandas and Scikit-Learn.
 
-### ⚙️ Data Engineering Practice
-- ETL Pipelines, Apache Spark & Kafka.
+### 🌐 MERN Stack Applications
+Full-stack web applications with authentication and REST APIs.
+
+### ⚙️ Data Engineering
+Learning ETL pipelines, Apache Spark and Kafka.
 
 ---
 
-## 🌱 Current Focus
+# 🌱 Current Focus
 
-- ⚙️ Data Engineering
+- 📊 Data Engineering
+- ⚡ Apache Spark
 - ☁️ Cloud Technologies
-- 📊 Data Analytics
 - 🤖 Machine Learning
 - 🌐 MERN Stack
-- 🐳 Docker & APIs
+- 🐳 Docker
 
 ---
 
@@ -144,8 +147,8 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Animesh_Tajne-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/YOUR-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-Animesh%20Tajne-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/animeshtajne_">
@@ -153,7 +156,7 @@
 </a>
 
 <a href="mailto:work.animeshtajne@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-work.animeshtajne-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://medium.com/@YOUR_USERNAME">
@@ -170,14 +173,14 @@
 
 ## 💭 Quote
 
-> **"Keep building. Keep learning. Every project is another step toward mastery."**
+> *"Code. Learn. Build. Repeat."*
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=animesh-1121&style=for-the-badge&color=blue)
+<img src="https://komarev.com/ghpvc/?username=animesh-1121&style=for-the-badge&color=blue"/>
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
 </div>
