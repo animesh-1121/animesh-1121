@@ -1,8 +1,6 @@
 <p align="center">
-  <a href="https://github.com/animesh-1121">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=animesh-1121&theme=github-dark">
-      <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=animesh-1121&theme=github-light">
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/animesh-1121/animesh-1121/main/dark_mode.svg">
+    <img alt="Animesh Tajne's GitHub profile" src="https://raw.githubusercontent.com/animesh-1121/animesh-1121/main/light_mode.svg">
+  </picture>
 </p>
